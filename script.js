@@ -63,7 +63,10 @@ function writePassword() {
   // tab to create space between passwords
   var TAB = "\t";
   // Previously generated passwords
-  document.getElementById("prevPassword").innerHTML += password + TAB;
+  // in order not to store as password the statement
+  if(password != " You must select at least one from the character types! "){
+    document.getElementById("prevPassword").innerHTML += password + TAB;
+  }
 
 }
 // Add event listener to generate button
