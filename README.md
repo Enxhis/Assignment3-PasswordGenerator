@@ -14,4 +14,6 @@ An application that generates a random password based on user-selected criteria.
 @ Old generated passwords are displayed for user to see or copy
 
 ---
+https://enxhis.github.io/Assignment3-PasswordGenerator/ 
+---
 © 2020  Enxhi Salaj 
