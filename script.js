@@ -59,10 +59,10 @@ function writePassword() {
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
+  
   // Previously generated passwords code
   // tab to create space between passwords
   var TAB = "\t";
-  // Previously generated passwords
   // in order not to store as password the statement
   if(password != " You must select at least one from the character types! "){
     document.getElementById("prevPassword").innerHTML += password + TAB;
