@@ -18,6 +18,8 @@ An application that generates a random password based on user-selected criteria.
 
 @ Old generated passwords are displayed for user to see or copy
 
+![ScreenshotPassword](/Assets/ScreenshotPassword.png) 
+
  https://enxhis.github.io/Assignment3-PasswordGenerator/ 
  
 ---
