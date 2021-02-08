@@ -1,4 +1,4 @@
-# Assignment3-PasswordGenerator
+# PasswordGenerator
 
 ## Description
 
